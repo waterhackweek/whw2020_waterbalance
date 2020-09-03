@@ -1,0 +1,57 @@
+Value, Category, Count,  Acreage
+1, Corn,244199,54308.6
+4, Sorghum,349,77.6
+6, Sunflowers,73,16.2
+11, Tobacco,1118,248.6
+12, Sweet Corn,10210,2270.6
+14, Mint,27198,6048.7
+21, Barley,484,107.6
+23, Spring Wheat,24314,5407.3
+24, Winter Wheat,93086,20701.8
+27, Rye,182,40.5
+28, Oats,947,210.6
+30, Speltz,20,4.4
+31, Canola,33,7.3
+32, Flaxseed,12,2.7
+35, Mustard,1,0.2
+36, Alfalfa,193682,43073.8
+37, Other Hay/Non Alfalfa,13603,3025.2
+39, Buckwheat,17,3.8
+41, Sugarbeets,22,4.9
+42, Dry Beans,4932,1096.9
+43, Potatoes,21777,4843.1
+44, Other Crops,677,150.6
+48, Watermelons,497,110.5
+49, Onions,2698,600
+50, Cucumbers,1114,247.7
+53, Peas,846,188.1
+54, Tomatoes,99,22
+55, Caneberries,742,165
+56, Hops,110534,24582.2
+57, Herbs,25057,5572.5
+58, Clover/Wildflowers,258,57.4
+59, Sod/Grass Seed,2221,493.9
+61, Fallow/Idle Cropland,177055,39376.1
+66, Cherries,45053,10019.5
+67, Peaches,2927,650.9
+68, Apples,327418,72816
+69, Grapes,319386,71029.7
+70, Christmas Trees,15,3.3
+71, Other Tree Crops,326,72.5
+76, Walnuts,4,0.9
+77, Pears,21080,4688.1
+176, Grass/Pasture,458708,102014.2
+205, Triticale,5513,1226.1
+206, Carrots,797,177.2
+207, Asparagus,3853,856.9
+209, Cantaloupes,193,42.9
+216, Peppers,2258,502.2
+220, Plums,148,32.9
+222, Squash,977,217.3
+223, Apricots,494,109.9
+224, Vetch,1,0.2
+225, Dbl Crop WinWht/Corn,18,4
+229, Pumpkins,1017,226.2
+237, Dbl Crop Barley/Corn,366,81.4
+242, Blueberries,5407,1202.5
+247, Turnips,2,0.4
