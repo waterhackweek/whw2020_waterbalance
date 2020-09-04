@@ -48,7 +48,7 @@ https://farmwest.com/node/932
 - hydrodata 
 - datetime
 - warnings
-- netCDF4 as nc
+- netCDF4
 - pathlib
 - contextily
 - dask
