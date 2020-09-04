@@ -3,7 +3,7 @@
 ## Collaborators 
 - Project Lead: Ayman Alafifi
 - Data Science Lead: Scott Black
-- Science Team: Hemendra Kumar, Takhellambam Bijoychandra Singh, Parisa Shahbaz, Brooke Mason, Santosh Subhash Palmate, Deen Dayal, Takhellambam Bijoychandra Singh, Caitlin Eger, Bart Nijssen 
+- Science Team: Hemendra Kumar, Takhellambam Bijoychandra Singh, Parisa Shahbaz, Brooke Mason, Santosh Subhash Palmate, Deen Dayal, Bart Nijssen 
 
 ## Background Statement
 - Precipitation, and in particular its effective portion, provides part of the water crops need to satisfy their transpiration requirements. The soil, acting as a buffer, stores part of the precipitation water and returns it to the crops in times of deficit. 
@@ -48,7 +48,7 @@ https://farmwest.com/node/932
 - hydrodata 
 - datetime
 - warnings
-- netCDF4 as nc
+- netCDF4
 - pathlib
 - contextily
 - dask
