@@ -11,7 +11,7 @@
 - Irrigation consumptive water use is defined as the volume of water needed to compensate for the deficit between potential evapotranspiration on the one side and effective precipitation over the crop growing period and change in soil moisture content on the other side. It varies considerably with climatic conditions, seasons, crops and soil types.
 
 ## Project Goal
-- Map irrigation consumptive water use in the Lower Yakima Basin, Washington using the crop water demand equation:
+Map irrigation consumptive water use in the Lower Yakima Basin, Washington using the crop water demand equation:
 
 ICU = ETc - P – DS
 
