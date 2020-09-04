@@ -27,8 +27,8 @@ DS = change in soil moisture (mm)
 https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGDF_06/summary?keywords=imerg
 - Crop data: USDA National Agricultural Statistics Service CropScape - Cropland Data Layer
 https://nassgeodata.gmu.edu/CropScape/
-- Crop coefficientts: Chapter 7 - ETc - Dual crop coefficient
-http://www.fao.org/3/X0490E/x0490e0c.htm#chapter%207%20%20%20etc%20%20%20dual%20crop%20coefficient%20(kc%20=%20kcb%20+%20ke)
+- Crop coefficients: Determining Crop Water Use - Crop Coefficients
+https://farmwest.com/node/932
 - Soil moisture data: NLDAS_MOS0125_M: NLDAS Mosaic Land Surface Model L4 Monthly 0.125 x 0.125 degree V002 https://disc.gsfc.nasa.gov/datasets/NLDAS_MOS0125_M_002/summary?keywords=NLDAS_MOS0125_M_002
 
 ## Python Packages
