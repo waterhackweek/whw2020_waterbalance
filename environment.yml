@@ -1,4 +1,4 @@
-name: /home/jovyan/data/conda-envs/whw
+name: whw
 channels:
   - anaconda
   - conda-forge
