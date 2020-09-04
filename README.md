@@ -53,7 +53,7 @@ https://farmwest.com/node/932
 - contextily
 - dask
 - pygeoogc
--requests
+- requests
 
 ## Additional Readings
 - AQUASTAT - FAO's Global Information System on Water and Agriculture: http://www.fao.org/aquastat/en/data-analysis/irrig-water-use/irrig-water-requirement
