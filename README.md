@@ -3,7 +3,7 @@
 ## Collaborators 
 - Project Lead: Ayman Alafifi
 - Data Science Lead: Scott Black
-- Science Team: Hemendra Kumar, Takhellambam Bijoychandra Singh,Parisa Shahbaz, Brooke Mason, Santosh Subhash Palmate, Deen Dayal, Takhellambam Bijoychandra Singh, Caitlin Eger, Bart Nijssen 
+- Science Team: Hemendra Kumar, Takhellambam Bijoychandra Singh, Parisa Shahbaz, Brooke Mason, Santosh Subhash Palmate, Deen Dayal, Takhellambam Bijoychandra Singh, Caitlin Eger, Bart Nijssen 
 
 ## Background Statement
 - Precipitation, and in particular its effective portion, provides part of the water crops need to satisfy their transpiration requirements. The soil, acting as a buffer, stores part of the precipitation water and returns it to the crops in times of deficit. 
@@ -23,6 +23,7 @@ DS = change in soil moisture (mm)
 
 ## Data Sources
 - Potential crop evapotranspiration data:
+- Temperature data: National Oceanic and Atmospheric Administration (NOAA), National Climatic Data Center (NCDC), Climate Data Online - Daily Temperature Summaries for Yakima, Benton, and Klickitat Counties, Washington, 1/1/2015 - 8/31/2020 https://www.ncdc.noaa.gov/cdo-web/
 - Preciptation data: PM_3IMERGDF: GPM IMERG Final Precipitation L3 1 day 0.1 degree x 0.1 degree V06
 https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGDF_06/summary?keywords=imerg
 - Crop data: USDA National Agricultural Statistics Service CropScape - Cropland Data Layer
